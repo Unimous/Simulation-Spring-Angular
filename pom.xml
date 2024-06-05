@@ -84,7 +84,7 @@
 							<executable>cp</executable>
 							<arguments>
 								<argument>-r</argument>
-								<argument>${project.basedir}/ui/dist/browser/</argument>
+								<argument>${project.basedir}/ui/dist/ui/browser/</argument>
 								<argument>${project.build.outputDirectory}/static/</argument>
 							</arguments>
 						</configuration>
